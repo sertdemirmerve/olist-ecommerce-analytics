@@ -1,8 +1,6 @@
--- ============================================================
 -- OLIST PROJECT — FAZ 1: STAGING DATABASE SETUP
 -- Araç: SQL Server / SSMS
 -- Açıklama: Ham CSV verilerinin yüklendiği staging veritabanı
--- ============================================================
 
 -- 1. Veritabanı oluştur
 CREATE DATABASE Olist_Project;
