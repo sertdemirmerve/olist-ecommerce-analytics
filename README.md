@@ -62,6 +62,11 @@ GitHub Portföy
 - Mevsimsellik ve Kategori Büyüme Analizi
 - Eyalet + Kategori Gecikme Analizi
 
+### 🔄 Faz 6 — Python & Makine Öğrenmesi (Devam Ediyor)
+- Churn Modeli: XGBoost + SHAP
+- Satış Tahmini: Prophet
+- Model çıktıları → SSMS'e geri yazılacak
+
 ---
 
 ## Temel Bulgular
@@ -80,7 +85,6 @@ GitHub Portföy
 
 ## Klasör Yapısı
 
-```
 olist-ecommerce-analytics/
 ├── /sql
 │   ├── 01_staging_setup.sql
@@ -88,13 +92,14 @@ olist-ecommerce-analytics/
 │   ├── 03_views.sql
 │   ├── 04_stored_procedures.sql
 │   └── 05_analytics_views.sql
+├── /python
+│   ├── churn_model.py
+│   └── sales_forecast.py
 ├── /powerbi
 │   └── olist_dashboard.pbix
 ├── /docs
 │   └── star_schema.png
 └── README.md
-```
-
 ---
 
 ## Kullanılan Teknolojiler
