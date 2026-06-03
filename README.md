@@ -85,6 +85,7 @@ GitHub Portföy
 
 ## Klasör Yapısı
 
+```
 olist-ecommerce-analytics/
 ├── /sql
 │   ├── 01_staging_setup.sql
@@ -100,7 +101,7 @@ olist-ecommerce-analytics/
 ├── /docs
 │   └── star_schema.png
 └── README.md
----
+```
 
 ## Kullanılan Teknolojiler
 
