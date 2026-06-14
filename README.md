@@ -62,11 +62,10 @@ GitHub Portföy
 - Mevsimsellik ve Kategori Büyüme Analizi
 - Eyalet + Kategori Gecikme Analizi
 
-### 🔄 Faz 6 — Python & Makine Öğrenmesi (Devam Ediyor)
-- Churn Modeli: XGBoost + SHAP
-- Satış Tahmini: Prophet
-- Model çıktıları → SSMS'e geri yazılacak
-
+### ✅ Faz 6 — Python & Makine Öğrenmesi
+- Churn Modeli: XGBoost + SHAP (ROC-AUC: 1.0)
+- Satış Tahmini: Prophet (90 günlük)
+- Model çıktıları SSMS'e geri yazıldı
 ---
 
 ## Temel Bulgular
